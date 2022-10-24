@@ -51,6 +51,7 @@ body {
 }
 
 .more {
+  font-size: 20px;
   text-decoration: underline;
   transition: color 0.3s ease-in-out, text-decoration 0.3s ease-in-out, box-shadow 0.3s ease-in-out, border-radius 0.3s ease-in-out;
 
@@ -69,6 +70,9 @@ body {
     color: $darkBlue-900;
     box-shadow: none;
   }
+
+  
 }
+
 
 
